@@ -15,9 +15,9 @@ public class task3 {
         int product = first * second * third;
         double average = sum / 3.0;
 
-        System.out.printf("Sum of three numbers is " + sum);
-        System.out.printf("Product of the numbers is " + product);
-        System.out.printf("Average of the numbers is " + average);
+        System.out.printf("Sum of three numbers is " + sum); // numeroiden summa
+        System.out.printf("Product of the numbers is " + product); // tuotteiden määrä
+        System.out.printf("Average of the numbers is " + average); //
 
         scanner.close();
 
