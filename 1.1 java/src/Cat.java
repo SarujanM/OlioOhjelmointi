@@ -10,11 +10,11 @@ public class Cat {
     }
 
     public static void main(String[] args) {
-        // Create two instances of the Cat class
+        // Tehdään 2 cat
         Cat cat1 = new Cat("Whiskers");
         Cat cat2 = new Cat("Rex");
 
-        // Call the meow method in the required order
+        // Pyydetään meow methodia pyydetyssä järjestyksessä
         cat1.meow();
         cat1.meow();
         cat2.meow();

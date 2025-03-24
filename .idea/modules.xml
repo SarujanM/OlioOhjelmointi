@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.1 java/1.1 java.iml" filepath="$PROJECT_DIR$/1.1 java/1.1 java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.2 java/1.2 java.iml" filepath="$PROJECT_DIR$/1.2 java/1.2 java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Olio ohjelmointi.iml" filepath="$PROJECT_DIR$/Olio ohjelmointi.iml" />
     </modules>
   </component>
